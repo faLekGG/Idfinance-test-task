@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="idfinance-test:war">
+    <output-path>$PROJECT_DIR$/idfinance-test/target</output-path>
+    <root id="archive" name="idfinance-test-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="idfinance-test:war exploded" />
+    </root>
+  </artifact>
+</component>
